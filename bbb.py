@@ -1,7 +1,7 @@
 import pandas as pd 
 import streamlit as st
 import sklearn
-c:\python39\python.exe -m streamlit run C:\Users\chintan\Desktop\streamlit\Final_year_project\App.py
+
 
 st.title("cars price prediction:")
 
