@@ -1,6 +1,6 @@
 import pandas as pd 
 import streamlit as st
-import sklearn
+import scikit-learn
 
 st.title("cars price prediction:")
 
